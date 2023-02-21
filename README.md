@@ -1,5 +1,6 @@
-### Hi there, I'm Ezra 👋
+### Hi 👋, I'm Ezra
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezchung/)
+A passionate software engineer here in the US
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <!--
 **ezchung/ezchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
