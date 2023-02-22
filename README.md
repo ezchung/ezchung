@@ -1,21 +1,17 @@
-### Hi 👋, I'm Ezra
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezchung/)
-A passionate software engineer here in the US
+<h1 align="center">Hi 👋, I'm Ezra</h1>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ezra-chung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezra-chung" height="30" width="40" /></a>
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<!--
-**ezchung/ezchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 😊 I'm a software engineer.
+- 🌱 I’m currently practicing data structures / algorithms.
+- 🔦 Coming from a nontraditional road to software engineering, if you have any questions, reach out and I'd love to share my thoughts.
+- 🔎 I'm interested in sitting in a room with interesting people, jotting down interesting(insert adjective) ideas, and making those ideas come to life.
+- 🎌 I'd love to hear about possibly collaborations on any projects / opportunities.
 
 <h3 align="left">Languages</h3>
 <p align="left"> 
@@ -57,3 +53,19 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
  </p>
+
+
+<!--
+**ezchung/ezchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
