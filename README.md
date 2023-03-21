@@ -13,6 +13,8 @@
 - 🔎 I'm interested in sitting in a room with interesting people, jotting down interesting(insert adjective) ideas, and making those ideas come to life.
 - 🎌 I'd love to hear about possibly collaborations on any projects / opportunities.
 
+* * * 
+
 <h3 align="left">Languages</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
