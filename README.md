@@ -12,6 +12,7 @@
 - 🔦 Coming from a nontraditional road to software engineering, if you have any questions, reach out and I'd love to share my thoughts.
 - 🔎 I'm interested in sitting in a room with interesting people, jotting down interesting(insert adjective) ideas, and making those ideas come to life.
 - 🎌 I'd love to hear about possibly collaborations on any projects / opportunities.
+- 👀 Check out my [personal site](https://ezrachung.com/)
 
 * * * 
 
@@ -74,6 +75,12 @@
   </a> &nbsp;
  </p>
 
+### Recent Learning / Readings
+- [ ] Eloquent JavaScript
+- [x] Grokking Algos
+- [ ] Data Structures and Algos Course 
+- [ ] The Complete Python Pro Camp
+- [ ] Learning C++ Programming
 
 <!--
 **ezchung/ezchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
