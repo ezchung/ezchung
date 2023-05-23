@@ -10,7 +10,7 @@
 - 😊 I'm a software engineer.
 - 🌱 I’m currently practicing data structures / algorithms.
 - 🔦 Coming from a nontraditional road to software engineering, if you have any questions, reach out and I'd love to share my thoughts.
-- 🔎 I'm interested in sitting in a room with interesting people, jotting down interesting(insert adjective) ideas, and making those ideas come to life.
+- 🔎 I'm interested in sitting in a room with interesting people, jotting down crazy ideas, and making those ideas come to life.
 - 🎌 I'd love to hear about possibly collaborations on any projects / opportunities.
 - 👀 Check out my [personal site](https://ezrachung.com/)
 
