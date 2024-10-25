@@ -84,12 +84,9 @@ When I'm not in front of a computer, I might be...
   </a> &nbsp;
  </p>
 
-### Recent Learning / Readings
-- [ ] Eloquent JavaScript
-- [x] Grokking Algos
-- [ ] Data Structures and Algos Course 
-- [ ] The Complete Python Pro Camp
-- [ ] Learning C++ Programming
+### Next Island to 🏁
+- [ ] .NET
+- [x] Angular
 
 <!--
 **ezchung/ezchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
