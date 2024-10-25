@@ -20,6 +20,7 @@ When I'm not in front of a computer, I might be...
 - 🧠 a Student
 
 🎌 I'd love to hear about possibly collaborations on any projects / opportunities.
+
 👀 Check out my [personal site](https://google.com/)! Coming soon
 
 * * * 
