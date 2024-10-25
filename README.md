@@ -7,12 +7,20 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 ### About Me
-- 😊 I'm a software engineer.
-- 🌱 I’m currently practicing data structures / algorithms.
-- 🔦 Coming from a nontraditional road to software engineering, if you have any questions, reach out and I'd love to share my thoughts.
-- 🔎 I'm interested in sitting in a room with interesting people, jotting down crazy ideas, and making those ideas come to life.
-- 🎌 I'd love to hear about possibly collaborations on any projects / opportunities.
-- 👀 Check out my [personal site](https://ezrachung.com/)
+I’m a curious and adaptable software engineer who thrives on building solutions that make a difference. My journey has taken me through frontend, backend, and everything in between—whether it’s designing an intuitive user experience or managing data infrastructure, I love to solve problems and continuously learn. From exploring new frameworks to diving into security measures, I enjoy tackling new challenges head-on.
+
+I’ve worked on everything from NFT projects to data visualization apps, blending creativity and technical skill. Whether I’m developing solo or collaborating in a team, I take pride in being an engineer who steps into unfamiliar spaces, figures things out, and delivers results. 🚀
+
+When I'm not in front of a computer, I might be...
+- 🧑‍🍳 a Baking Enthusiast
+- 🏀 a Sports Junkie
+- 🌊 a Global Explorer
+- 🤖 a Robotics Fanatics or just of any crazy ideas
+- 🔎 a Detective
+- 🧠 a Student
+
+🎌 I'd love to hear about possibly collaborations on any projects / opportunities.
+👀 Check out my [personal site](https://google.com/)! Coming soon
 
 * * * 
 
